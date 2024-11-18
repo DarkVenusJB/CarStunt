@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 29ab5b36003a4b4fb30fd779715775c1, type: 3}
+  m_Name: Level 6
+  m_EditorClassIdentifier: 
+  Id: level_6
+  LevelPrefab: {fileID: 633832563456008343, guid: b77aa699effbbd347ba1ee9a2ec3c4a5, type: 3}
+  Preview: {fileID: 21300000, guid: 4cfdf9e4135f05b44972281d8a61833b, type: 3}
+  LockPreview: {fileID: 21300000, guid: 00ee6f0d260da4d4991be9b4d207cc65, type: 3}
+  Reward: 650

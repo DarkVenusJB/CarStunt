@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="06da3f72-9743-4321-8a62-04c8898e9dd6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Assets/Scripts/Bootstrap.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assets/Scripts/Bootstrap.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assets/Imported/StarterAssets/ThirdPersonController/Scripts/ThirdPersonController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Assets/Imported/StarterAssets/ThirdPersonController/Scripts/ThirdPersonController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assets/Res/Cars/AE_CARS/SAMOCHODY/_Colors/Glass.mat" beforeDir="false" afterPath="$PROJECT_DIR$/../../Assets/Res/Cars/AE_CARS/SAMOCHODY/_Colors/Glass.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assets/Samples/Universal RP/13.1.8/URP Package Samples/SharedAssets/Settings/SamplesPipelineAsset.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../Assets/Samples/Universal RP/13.1.8/URP Package Samples/SharedAssets/Settings/SamplesPipelineAsset.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assets/Scenes/CarrierMode.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Assets/Scenes/CarrierMode.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assets/Scenes/test.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Assets/Scenes/test.unity.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assets/Scripts/CarController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Assets/Scripts/CarController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assets/Scripts/Components/PlayerSkinController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Assets/Scripts/Components/PlayerSkinController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assets/Scripts/Components/Wallet.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Assets/Scripts/Components/Wallet.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assets/Scripts/Configurations/LevelData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Assets/Scripts/Configurations/LevelConfig.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assets/Scripts/Configurations/LevelData.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../Assets/Scripts/Configurations/LevelConfig.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assets/Scripts/Configurations/ShopElementData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Assets/Scripts/Configurations/ShopElementData.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assets/Scripts/Database/Data/LevelData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Assets/Scripts/Database/Data/LevelData.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assets/Scripts/Database/Data/SkinData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Assets/Scripts/Database/Data/SkinData.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assets/Scripts/Database/GameData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Assets/Scripts/Database/GameData.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assets/Scripts/Database/GameDataController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Assets/Scripts/Database/GameDataController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assets/Scripts/Managers/GameManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Assets/Scripts/Managers/GameManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assets/Scripts/Managers/LevelManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Assets/Scripts/Managers/LevelManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assets/Scripts/Managers/MainMenu.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Assets/Scripts/Managers/MainMenu.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assets/Scripts/Managers/ShopManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Assets/Scripts/Managers/ShopManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assets/Scripts/Managers/UiManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Assets/Scripts/Managers/UiManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assets/Scripts/Shop.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Assets/Scripts/Shop.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assets/Scripts/View/ShopElementView.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Assets/Scripts/View/ShopElementView.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assets/UniversalRenderPipelineAsset.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../Assets/UniversalRenderPipelineAsset.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../ProjectSettings/ProjectSettings.asset" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Kitgun1&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Immortal-Game/CarStunt&quot;,
+    &quot;accountId&quot;: &quot;bf58857d-65e5-4863-9846-12d5ff40a023&quot;
+  }
+}</component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2gReGhY1MAN7Ed60EERUjGNliaL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="06da3f72-9743-4321-8a62-04c8898e9dd6" name="Changes" comment="" />
+      <created>1715841267413</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715841267413</updated>
+      <workItem from="1715841268544" duration="11000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
